@@ -28,6 +28,9 @@ git remote add origin https://github.com/keshu12/git-test.git
 git push -u origin master
 
 
+git clone https://github.com/FieldSoft-HelloClyde/Tetris-Swing.git /d/Git_repository/Tetris-Swing
+
+
 
 
 
